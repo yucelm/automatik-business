@@ -15,6 +15,9 @@ export default function Home() {
         <h1 className={styles.title}>
           Automatik Business
         </h1>
+        <h2 className={styles.titlem}>
+          Coming Soon
+        </h2>
       </main>
 
       <footer className={styles.footer}>
