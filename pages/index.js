@@ -16,7 +16,7 @@ export default function Home() {
           Automatik Business
         </h1>
         <h2 className={styles.titlem}>
-          Coming Soon
+          Coming Soon !
         </h2>
       </main>
 
